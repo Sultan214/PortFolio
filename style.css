@@ -4,6 +4,7 @@ body{
 }
 section{
 	display: flex ;
+	margin-bottom: 130px;
 }
 .half-width{
 	width: 50%;
@@ -23,4 +24,10 @@ section{
 #sec1{
 	background-image:url(images/top-banner.png);
 	background-repeat: no-repeat;
+}
+
+#sec2{
+	background-image: url(images/dream-bg.png);
+	background-repeat: no-repeat;
+	background-position: right;
 }
